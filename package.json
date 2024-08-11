@@ -1,0 +1,26 @@
+{
+  "name": "backend-beginer",
+  "version": "1.0.0",
+  "description": "backend for beginer with nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vannducc00/Backend_NodeJS.git"
+  },
+  "keywords": [
+    "origin"
+  ],
+  "author": "duc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vannducc00/Backend_NodeJS/issues"
+  },
+  "homepage": "https://github.com/vannducc00/Backend_NodeJS#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
